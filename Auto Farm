@@ -1,0 +1,144 @@
+-- Script By Forever4D#5448
+
+local BABFT = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local txt = Instance.new("TextLabel")
+local bar = Instance.new("Frame")
+local btn = Instance.new("TextButton")
+local crd = Instance.new("TextLabel")
+
+BABFT.Name = "BABFT"
+BABFT.Parent = game.Players.LocalPlayer.PlayerGui
+
+Main.Name = "Main"
+Main.Parent = BABFT
+Main.BackgroundColor3 = Color3.new(0.0588235, 0.545098, 1)
+Main.BorderSizePixel = 3
+Main.Position = UDim2.new(0.306196868, 0, 0.37845847, 0)
+Main.Size = UDim2.new(0, 230, 0, 123)
+
+txt.Name = "txt"
+txt.Parent = Main
+txt.BackgroundColor3 = Color3.new(1, 1, 1)
+txt.BackgroundTransparency = 1
+txt.Position = UDim2.new(0, 0, -0.0700000003, 0)
+txt.Size = UDim2.new(0, 230, 0, 45)
+txt.Font = Enum.Font.Cartoon
+txt.Text = "Build A Boat For Treasure"
+txt.TextColor3 = Color3.new(1, 1, 1)
+txt.TextScaled = true
+txt.TextSize = 14
+txt.TextWrapped = true
+
+bar.Name = "bar"
+bar.Parent = Main
+bar.BackgroundColor3 = Color3.new(1, 1, 1)
+bar.BorderSizePixel = 0
+bar.Position = UDim2.new(0, 0, 0.261219501, 0)
+bar.Size = UDim2.new(0, 230, 0, 4)
+
+btn.Name = "btn"
+btn.Parent = Main
+btn.BackgroundColor3 = Color3.new(0.0588235, 0.545098, 1)
+btn.BackgroundTransparency = 0.40000000596046
+btn.BorderColor3 = Color3.new(1, 1, 1)
+btn.BorderSizePixel = 3
+btn.Position = UDim2.new(0.182608694, 0, 0.403089464, 0)
+btn.Size = UDim2.new(0, 146, 0, 35)
+btn.Font = Enum.Font.SourceSans
+btn.Text = "AFK Gold Farm"
+btn.TextColor3 = Color3.new(1, 1, 1)
+btn.TextScaled = true
+btn.TextSize = 14
+btn.TextWrapped = true
+
+crd.Name = "crd"
+crd.Parent = Main
+crd.BackgroundColor3 = Color3.new(1, 1, 1)
+crd.BackgroundTransparency = 1
+crd.Position = UDim2.new(0.0304347817, 0, 0.821138203, 0)
+crd.Size = UDim2.new(0, 216, 0, 15)
+crd.Font = Enum.Font.Cartoon
+crd.Text = "Script by Forever4D #5447"
+crd.TextColor3 = Color3.new(1, 1, 1)
+crd.TextScaled = true
+crd.TextSize = 14
+crd.TextWrapped = true
+Main.Draggable = true
+
+btn.MouseButton1Click:connect(function()
+	while true do
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 1360.169)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 1606.735)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 2110.305)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 2356.615)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 2860.822)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 3106.799)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 3610.319)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 3856.81)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 4360.739)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 4606.839)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 5110.874)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 5356.655)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 5859.983)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 6107.172)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 6610.714)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 6856.667)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 7360.453)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 7606.768)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 8110.895)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-32.266, 40.95, 8356.78)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30.326, -195.37, 8610.171)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-71.386, -267.98, 8630.134)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-55.496, -363.2, 9487.833)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-62.076, -361.278, 9522.13)
+print("Finished")
+wait(0.8)
+end
+end)
+
+repeat
+    for hue = 0, 1, .01 do
+        Main.BorderColor3 = Color3.fromHSV(hue, 1, 1)
+        wait()
+    end
+    for hue = 1, 0 -.01 do
+        Main.BorderColor3 = Color3.fromHSV(hue, 1, 1)
+        wait()
+    end
+until nil
+
+repeat
+    for hue = 0, 1, .01 do
+       main2.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+        wait()
+    end
+    for hue = 1, 0 -.01 do
+        main2.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+        wait()
+    end
+until nil
